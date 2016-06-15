@@ -10,6 +10,8 @@ author: Author
 <!--** is used for bold-->
 <!--[] for link with () as url for the link-->
 <!--[^] for footnote; [^] content-->
+<!--a dash is for creating lists/lines of poetry-->
+<!-- use this one > for putting indented lines of poetry in prose text or creating a block quotation; see the Douglass example-->
 
 
 
